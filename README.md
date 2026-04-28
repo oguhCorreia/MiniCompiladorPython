@@ -1,1 +1,2 @@
 # MiniCompiladorPython
+Autor : Hugo Correia
